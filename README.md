@@ -10,8 +10,7 @@ Huang CW, Chow JC, Tsai JJ, Wu SN. Characterizing the effects of eugenol on neur
 
 **Objectives:** We aimed to investigate EUG's effects on neuronal ionic currents and excitability, especially on voltage-gated ion currents, and to verify the effects on a hyperexcitability-temporal lobe seizure model.  
 
-**Methods**  
-With the aid of patch-clamp technology, we first investigated the effects of EUG on ionic currents in NG108-15 neuronal cells differentiated with cyclic AMP. We then used modified Pinsky-Rinzel simulation modeling to evaluate its effects on spontaneous action potentials (APs). Finally, we investigated its effects on pilocarpine-induced seizures in rats.  
+**Methods:** With the aid of patch-clamp technology, we first investigated the effects of EUG on ionic currents in NG108-15 neuronal cells differentiated with cyclic AMP. We then used modified Pinsky-Rinzel simulation modeling to evaluate its effects on spontaneous action potentials (APs). Finally, we investigated its effects on pilocarpine-induced seizures in rats.  
 
 **Results:** EUG depressed the transient and late components of INa in the neurons. It not only increased the degree of INa inactivation, but specifically suppressed the non-inactivating INa (INa(NI)). Its inhibition of INa(NI) was reversed by tefluthrin. In addition, EUG diminished L-type Ca2+ current and delayed rectifier K+ current only at higher concentrations. EUG's effects on APs frequency reduction was verified by the simulation modeling. In pilocarpine-induced seizures, the EUG-treated rats showed no shorter seizure latency but a lower seizure severity and mortality than the control rats. The EUG's effect on seizure severity was occluded by the INa(NI) antagonist riluzole.  
 
